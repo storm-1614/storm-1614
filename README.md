@@ -7,7 +7,7 @@
 
 ### [个人博客](https://storm1614.top/)
 
-![storm-1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=storm-1614&show_icons=true&theme=nord)
+![storm-1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=storm-1614&show_icons=true&theme=nord&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=storm-1614&layout=compact&theme=nord&hide_border=true)
 
