@@ -12,4 +12,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=storm-1614&layout=compact&theme=nord&hide_border=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
