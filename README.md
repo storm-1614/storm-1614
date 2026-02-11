@@ -14,6 +14,15 @@
 ## ⏱️ Coding Stats
 
 <!--START_SECTION:waka-custom-->
+```
+**💻 OS:**
+
+**🧑‍💻 Editors:**
+
+**📦 Projects:**
+
+**🧠 Languages:**
+```
 <!--END_SECTION:waka-custom-->
 
 <sub>Last updated automatically at 02:00 (Beijing Time)</sub>
