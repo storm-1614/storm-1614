@@ -11,10 +11,9 @@
 [![storm-1614's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=storm-1614&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=storm-1614&layout=compact&theme=nord&hide_border=true)
 
+## ⏱️ Coding Stats
+
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+<sub>Last updated automatically at 02:00 (Beijing Time)</sub>
