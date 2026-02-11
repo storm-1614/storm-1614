@@ -13,7 +13,7 @@
 
 ## ⏱️ Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-custom-->
+<!--END_SECTION:waka-custom-->
 
 <sub>Last updated automatically at 02:00 (Beijing Time)</sub>
