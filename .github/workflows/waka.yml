@@ -1,4 +1,4 @@
-name: Work Stats Readme
+name: Update README with WakaTime stats
 
 on:
   workflow_dispatch:
@@ -6,34 +6,28 @@ on:
     - cron: "0 18 * * *"   # 北京时间 02:00
 
 jobs:
-  update-readme:
-    name: Update README with WakaTime stats
+  waka:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Update README
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        
-          # 只在数据变化时提交
-          COMMIT_MESSAGE: "chore: update wakatime stats"
-        
-          # 展示哪些维度
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGES: true
-        
-          # 数量控制（防刷屏）
-          OS_COUNT: 3
-          PROJECT_COUNT: 5
-          EDITOR_COUNT: 3
-          LANG_COUNT: 5
-        
-          # 时间 & 总计
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-        
-          # 进度条样式
-          BLOCKS: "░▒▓█"
-        
+        run: python scripts/update_waka_readme.py
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: update wakatime stats"
+          git push
+
