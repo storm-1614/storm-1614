@@ -27,10 +27,11 @@ Major in Computer Science and Technology.
 ### Programming Languages
 ![](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ### More
 ![](https://img.shields.io/badge/Github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![](https://img.shields.io/badge/PWNTOOL-000000?style=for-the-badge&logo=zsh&logoColor=white)
+![](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
