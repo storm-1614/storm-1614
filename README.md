@@ -19,6 +19,7 @@ Major in Computer Science and Technology.
 ### Device
 ![](https://img.shields.io/badge/ThinkBook14+_2025-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![](https://img.shields.io/badge/RedMi_K70-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
+![](https://img.shields.io/badge/pixel_7_pro-4285f4?style=for-the-badge&logo=google&logoColor=white)
 ### Toolkit & IDEs
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VsCodium-2f08ed?style=for-the-badge&logo=VSCodium&logoColor=white)
