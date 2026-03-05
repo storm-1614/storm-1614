@@ -1,18 +1,38 @@
-### 你好 👋  
-**我是storm-1614**  
-**计算机科学与技术专业**的本科生  
-现在在学习 C++  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Stay+hungry%2C+Stay+foolish.)](https://git.io/typing-svg)
+
+### Hello! 👋  
+I'm storm_1614  
+Major in Computer Science and Technology.  
 
 <h1 align="center">努力构造开源代码世界🌏</h1>
 
-### [个人博客](https://storm1614.top/)
+### [Personal blog, click here.](https://storm1614.top/)
 
 ![storm-1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=storm-1614&show_icons=true&theme=nord&hide_border=true)
 [![storm-1614's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=storm-1614&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=storm-1614&layout=compact&theme=nord&hide_border=true)
 
-## ⏱️ Coding Stats
+## Developing Environment
+### Operate System
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Device
+![](https://img.shields.io/badge/ThinkBook14+_2025-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![](https://img.shields.io/badge/RedMi_K70-FF6900?style=for-the-badge&logo=Xiaomi&logoColor=white)
+### Toolkit & IDEs
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/VsCodium-2f08ed?style=for-the-badge&logo=VSCodium&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+### Programming Languages
+![](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+### More
+![](https://img.shields.io/badge/Github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+## ⏱️ Coding Stats
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2059%20mins-blue?style=flat)
 
