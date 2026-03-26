@@ -23,12 +23,15 @@ Major in Computer Science and Technology.
 ### Toolkit & IDEs
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VsCodium-2f08ed?style=for-the-badge&logo=VSCodium&logoColor=white)
+![](https://img.shields.io/badge/androidstudio-%3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Programming Languages
 ![](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 ### More
 ![](https://img.shields.io/badge/Github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![](https://img.shields.io/badge/PWNTOOL-000000?style=for-the-badge&logo=zsh&logoColor=white)
