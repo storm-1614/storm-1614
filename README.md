@@ -39,6 +39,8 @@ Major in Computer Science and Technology.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -120,6 +122,6 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 02:38:02 UTC
+ Last Updated on 18/04/2026 05:40:44 UTC
 <!--END_SECTION:waka-->
 
