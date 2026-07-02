@@ -47,7 +47,7 @@ Major in Computer Science and Technology.
 
 > 📦 256.8 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Major in Computer Science and Technology.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                177 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌆 Daytime                260 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
-🌃 Evening                178 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+🌞 Morning                177 commits         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+🌆 Daytime                261 commits         ███████████░░░░░░░░░░░░░░   42.16 % 
+🌃 Evening                178 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Sunday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Thursday                 65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 ```
 
 
@@ -82,26 +82,26 @@ Sunday                   113 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 21 mins      ██████████████░░░░░░░░░░░   54.79 % 
-C                        5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-S                        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-C++                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.96 % 
+C                        3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+C++                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+RGBDS Assembly           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 43 mins      ██████████████████████░░░   88.43 % 
-Vim                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Claude Code              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Neovim                   10 hrs 17 mins      ███████████████████████░░   92.27 % 
+Claude Code              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 31 mins       █████████████░░░░░░░░░░░░   50.39 % 
-seabios                  6 hrs               ████████░░░░░░░░░░░░░░░░░   31.80 % 
-ctf-repo                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-c-cpp_studyProject       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-XMUT-programming-practice31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Unknown Project          4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+seabios                  3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.55 % 
+ctf-repo                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+XMUT-programming-practice48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+c-cpp_studyProject       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 💻 Operating System: 
-Linux                    18 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,6 +121,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 23:17:41 UTC
+ Last Updated on 02/07/2026 23:09:39 UTC
 <!--END_SECTION:waka-->
 
