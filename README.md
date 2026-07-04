@@ -39,7 +39,7 @@ Major in Computer Science and Technology.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,25 +82,25 @@ Sunday                   113 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.36 % 
-Python                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-C                        43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-C++                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 1 hr 56 mins        ████████████░░░░░░░░░░░░░   46.41 % 
+Python                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+C++                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+C                        28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 56 mins       ████████████████████░░░░░   80.69 % 
-Claude Code              56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Neovim                   3 hrs 13 mins       ███████████████████░░░░░░   77.36 % 
+Claude Code              56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-ctf-repo                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-c-cpp_studyProject       45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-XMUT-programming-practice32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JADX-NO-MCP              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+ctf-repo                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Unknown Project          50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+c-cpp_studyProject       45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+XMUT-programming-practice32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+JADX-NO-MCP              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,6 +120,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 23:06:10 UTC
+ Last Updated on 04/07/2026 22:59:19 UTC
 <!--END_SECTION:waka-->
 
