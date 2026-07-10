@@ -39,15 +39,15 @@ Major in Computer Science and Technology.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 271.4 kB Used in GitHub's Storage 
+> 📦 284.9 kB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2026
+> 🏆 220 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Major in Computer Science and Technology.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                183 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌆 Daytime                261 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
-🌃 Evening                182 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+🌞 Morning                184 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌆 Daytime                262 commits         ██████████░░░░░░░░░░░░░░░   41.52 % 
+🌃 Evening                182 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Sunday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Tuesday                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sunday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 
@@ -82,26 +82,26 @@ Sunday                   113 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.04 % 
-Python                   7 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-TeX                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-C++                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python                   10 hrs 29 mins      ████████████░░░░░░░░░░░░░   47.64 % 
+Markdown                 8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.71 % 
+TeX                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 34 mins      ██████████████████████░░░   86.06 % 
-Claude Code              2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Neovim                   18 hrs 40 mins      █████████████████████░░░░   84.72 % 
+Claude Code              3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Vim                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-ctf-repo                 7 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
-Unknown Project          5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-c-cpp_studyProject       3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Metasploitable2-Linux    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JADX-NO-MCP              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+ctf-repo                 10 hrs 32 mins      ████████████░░░░░░░░░░░░░   47.86 % 
+Unknown Project          6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+c-cpp_studyProject       3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+项目源代码                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Metasploitable2-Linux    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Linux                    18 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,6 +121,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 23:13:52 UTC
+ Last Updated on 10/07/2026 23:00:22 UTC
 <!--END_SECTION:waka-->
 
