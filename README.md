@@ -39,15 +39,15 @@ I'm passionate about Cybersecurity and Operating Systems.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 372.9 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2026
+> 🏆 235 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,21 +58,21 @@ I'm passionate about Cybersecurity and Operating Systems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                188 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌆 Daytime                266 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
-🌃 Evening                187 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+🌞 Morning                188 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+🌆 Daytime                266 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌃 Evening                189 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Saturday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Tuesday                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Saturday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 ```
 
 
@@ -82,27 +82,28 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   42 hrs 40 mins      ██████████████████░░░░░░░   71.48 % 
-Markdown                 13 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-TeX                      1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Other                    56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-C                        55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   41 hrs 37 mins      ██████████████████░░░░░░░   72.05 % 
+Markdown                 12 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+C                        1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+IDA                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Neovim                   49 hrs 54 mins      █████████████████████░░░░   83.60 % 
-Claude Code              8 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Vim                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Neovim                   47 hrs 21 mins      ████████████████████░░░░░   81.98 % 
+Claude Code              8 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Vim                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Ida-Pro                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-python_studyProject      19 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
-ctf-repo                 17 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Unknown Project          16 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-智能交通                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-satellite                1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+ctf-repo                 20 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   36.32 % 
+python_studyProject      19 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
+Unknown Project          11 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+satellite                1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+智能交通                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Linux                    59 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    57 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,6 +123,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 22:54:28 UTC
+ Last Updated on 20/07/2026 23:01:58 UTC
 <!--END_SECTION:waka-->
 
