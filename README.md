@@ -39,15 +39,17 @@ I'm passionate about Cybersecurity and Operating Systems.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-919.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 372.9 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 237 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,21 +60,21 @@ I'm passionate about Cybersecurity and Operating Systems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                188 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-🌆 Daytime                266 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌃 Evening                189 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌞 Morning                190 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌆 Daytime                266 commits         ██████████░░░░░░░░░░░░░░░   41.05 % 
+🌃 Evening                189 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Tuesday                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Saturday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 ```
 
 
@@ -109,11 +111,11 @@ Linux                    57 hrs 46 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Lua                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Lua                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -123,6 +125,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 23:01:58 UTC
+ Last Updated on 21/07/2026 01:32:57 UTC
 <!--END_SECTION:waka-->
 
