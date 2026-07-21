@@ -5,7 +5,7 @@ I'm storm_1614, a CTFer 🚩.
 Majoring in Computer Science and Technology at Xiamen University of Technology.  
 I'm passionate about Cybersecurity and Operating Systems.  
 
-<h1 align="center">努力构造开源代码世界🌏</h1>
+<h1 align="center">去做难而正确的事情🚀</h1>
 
 ### [Personal blog:storm1614.top, click here!](https://storm1614.top/)
 
