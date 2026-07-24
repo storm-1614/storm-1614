@@ -82,28 +82,28 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 43 mins      ██████████████░░░░░░░░░░░   54.76 % 
-Markdown                 14 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
-C                        4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-IDA                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   20 hrs 11 mins      █████████████░░░░░░░░░░░░   51.52 % 
+Markdown                 13 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   33.23 % 
+C                        4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+IDA                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Neovim                   39 hrs 5 mins       █████████████████████░░░░   83.20 % 
-Claude Code              6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-VS Code                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Ida-Pro                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Neovim                   33 hrs 22 mins      █████████████████████░░░░   85.17 % 
+Claude Code              4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Ida-Pro                  44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-ctf-repo                 16 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   34.91 % 
-python_studyProject      9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Unknown Project          9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-智能交通                     5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-seabios                  4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+ctf-repo                 13 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.38 % 
+Unknown Project          8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+python_studyProject      5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+智能交通                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+seabios                  4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 
 💻 Operating System: 
-Linux                    46 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,6 +123,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/storm-1614/storm-1614/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 22:58:25 UTC
+ Last Updated on 24/07/2026 23:02:56 UTC
 <!--END_SECTION:waka-->
 
