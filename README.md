@@ -9,9 +9,8 @@ I'm passionate about Cybersecurity and Operating Systems.
 
 ### [Personal blog:storm1614.top, click here!](https://storm1614.top/)
 
-![storm-1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=storm-1614&show_icons=true&theme=nord&hide_border=true)
+[![storm-1614's GitHub Stats](https://github-stats-extended.vercel.app/api?username=storm-1614&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=storm-1614&show_icons=true&include_all_commits=true&theme=nord) [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=storm-1614&layout=compact&langs_count=6&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=storm-1614&layout=compact&langs_count=6&theme=nord)
 [![storm-1614's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=storm-1614&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=storm-1614&layout=compact&theme=nord&hide_border=true)
 
 ## Developing Environment
 ### Operate System
