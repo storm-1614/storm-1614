@@ -3,7 +3,7 @@
 ### Hello! 👋  
 I'm storm_1614, a CTFer 🚩.  
 Majoring in Computer Science and Technology at Xiamen University of Technology.  
-I'm passionate about Cybersecurity and Operating Systems.  
+I'm passionate about Cybersecurity and low-level system internals.  
 
 <h1 align="center">去做难而正确的事情🚀</h1>
 
