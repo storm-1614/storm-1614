@@ -38,6 +38,10 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.03%20million%20lines%20of%20code-blue?style=flat)
@@ -137,6 +141,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:13:56 UTC
+ Last Updated on 07/08/2026 01:30:58 UTC
 <!--END_SECTION:waka-->
 
