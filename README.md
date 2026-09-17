@@ -38,9 +38,9 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,52 +85,52 @@ Sunday                   143 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 17 mins      ███████████░░░░░░░░░░░░░░   42.44 % 
-Python                   16 hrs              ██████████░░░░░░░░░░░░░░░   39.29 % 
-Other                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-TeX                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-C++                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Markdown                 18 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.69 % 
+Python                   16 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.27 % 
+Other                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TeX                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+C++                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.93 % 
-Codex CLI                17 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.86 % 
-Codex Vscode             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Claude Code              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Neovim                   19 hrs 4 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
+Codex CLI                18 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.11 % 
+Codex Vscode             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Claude Code              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-math_model-library       12 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.15 % 
-lab                      6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-c-cpp_studyProject       6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Unknown Project          5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-ctf-repo                 3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+math_model-library       12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+lab                      8 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+c-cpp_studyProject       6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Unknown Project          5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+C题                       3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 💻 Operating System: 
-Linux                    40 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 6 mins (78.78%)
+⏱ AI Coding Time: 33 hrs 14 mins (79.76%)
 
-✍️ 14,865 lines written by AI, 3,708 lines written by hand (80.04% AI-written)
+✍️ 15,143 lines written by AI, 3,503 lines written by hand (81.21% AI-written)
 
-🔤 23,122,813 Input Tokens, 2,846,611 Output Tokens
+🔤 23,403,076 Input Tokens, 2,920,924 Output Tokens
 
-💵 $141.05 Estimated AI Cost This Week
+💵 $144.22 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 719 AI Prompts
+🧠 213 AI Sessions, 747 AI Prompts
 
-GPT                      14,838 lines        █████████████████████████   99.53 % 
-Codex-Vscode             70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+GPT                      15,122 lines        █████████████████████████   99.54 % 
+Codex-Vscode             70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.04% of written lines came from AI
-📚 Verbose Prompter — average 5,276 characters per prompt
+🤖 AI-Driven — 81.21% of written lines came from AI
+📚 Verbose Prompter — average 5,367 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.29% of changed lines were hand-edited
+🚀 High AI Trust — 20.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,6 +146,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 00:02:12 UTC
+ Last Updated on 17/09/2026 00:11:49 UTC
 <!--END_SECTION:waka-->
 
