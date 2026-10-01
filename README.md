@@ -32,7 +32,7 @@ I'm passionate about Cybersecurity and low-level system internals.
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### More
-![](https://img.shields.io/badge/claudecode-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Codex](assets/codex.svg)
 ![](https://img.shields.io/badge/PWNTOOL-000000?style=for-the-badge&logo=zsh&logoColor=white)
 ![](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
 ## ⏱️ Coding Stats
