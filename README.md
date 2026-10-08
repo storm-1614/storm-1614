@@ -38,9 +38,9 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-276%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -48,15 +48,15 @@ I'm passionate about Cybersecurity and low-level system internals.
 
 **🐱 My GitHub Data** 
 
-> 📦 532.9 kB Used in GitHub's Storage 
+> 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 527 Contributions in the Year 2026
+> 🏆 528 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -85,67 +85,66 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-C                        11 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Rust                     10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Other                    5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-C++                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Markdown                 15 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.12 % 
+C                        11 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Other                    5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Rust                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+C++                      2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-Neovim                   33 hrs 23 mins      ██████████████████░░░░░░░   73.80 % 
-Codex Vscode             10 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Claude Code              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Ida-Pro                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Neovim                   31 hrs 45 mins      ███████████████████░░░░░░   76.96 % 
+Codex Vscode             8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Claude Code              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-c-cpp_studyProject       8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-2026a-rustling-storm-16147 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-GooseHeap                4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-translate-codex          3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Unknown Project          13 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   32.38 % 
+c-cpp_studyProject       12 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+GooseHeap                4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+translate-codex          3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+rust                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    45 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 12 mins (40.25%)
+⏱ AI Coding Time: 14 hrs 44 mins (35.7%)
 
-✍️ 1,097 lines written by AI, 5,830 lines written by hand (15.84% AI-written)
+✍️ 1,097 lines written by AI, 5,811 lines written by hand (15.88% AI-written)
 
-🔤 6,138,543 Input Tokens, 930,808 Output Tokens
+🔤 5,361,364 Input Tokens, 816,729 Output Tokens
 
-💵 $38.65 Estimated AI Cost This Week
+💵 $41.19 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 345 AI Prompts
+🧠 76 AI Sessions, 270 AI Prompts
 
 GPT                      1,129 lines         █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.84% of written lines came from AI
-📚 Verbose Prompter — average 2,254 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.88% of written lines came from AI
+📚 Verbose Prompter — average 2,772 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 86.28% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Lua                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Lua                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 01:15:56 UTC
+ Last Updated on 08/10/2026 01:37:39 UTC
 <!--END_SECTION:waka-->
 
