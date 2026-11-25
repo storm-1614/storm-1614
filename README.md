@@ -38,7 +38,7 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2058%20mins-blue?style=flat)
 
@@ -85,47 +85,49 @@ Sunday                   1075 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-C++                      2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Python                   1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-IDA                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+C++                      2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+IDA                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 59 mins       ███████████████████████░░   90.92 % 
-IDA Pro                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Neovim                   7 hrs 54 mins       ██████████████████████░░░   87.39 % 
+IDA Pro                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-c-cpp_studyProject       3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
-ctf-repo                 2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Unknown Project          2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-storm                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+c-cpp_studyProject       3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
+Unknown Project          2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
+ctf-repo                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+storm                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Linux                    8 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (7.33%)
+⏱ AI Coding Time: 39 mins (7.26%)
 
-✍️ 6 lines written by AI, 1,330 lines written by hand (0.45% AI-written)
+✍️ 6 lines written by AI, 1,205 lines written by hand (0.5% AI-written)
 
-🔤 168,306 Input Tokens, 4,914 Output Tokens
+🔤 194,081 Input Tokens, 5,510 Output Tokens
 
-💵 $2.76 Estimated AI Cost This Week
+💵 $2.83 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 GPT                      16 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.45% of written lines came from AI
-📄 Detailed Prompter — average 775 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.5% of written lines came from AI
+📄 Detailed Prompter — average 884 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,6 +143,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 05:48:55 UTC
+ Last Updated on 25/11/2026 04:51:17 UTC
 <!--END_SECTION:waka-->
 
