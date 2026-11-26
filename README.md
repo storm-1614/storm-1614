@@ -38,9 +38,9 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,35 +85,35 @@ Sunday                   1075 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
-C++                      2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-IDA                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+C++                      2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+IDA                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 54 mins       ██████████████████████░░░   87.39 % 
-IDA Pro                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Neovim                   7 hrs 44 mins       ██████████████████████░░░   87.15 % 
+IDA Pro                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-c-cpp_studyProject       3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
-Unknown Project          2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-ctf-repo                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-storm                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+c-cpp_studyProject       3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
+Unknown Project          2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+ctf-repo                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+storm                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (7.26%)
+⏱ AI Coding Time: 39 mins (7.39%)
 
-✍️ 6 lines written by AI, 1,205 lines written by hand (0.5% AI-written)
+✍️ 6 lines written by AI, 1,107 lines written by hand (0.54% AI-written)
 
 🔤 194,081 Input Tokens, 5,510 Output Tokens
 
@@ -124,10 +124,10 @@ Linux                    9 hrs 2 mins        ███████████�
 GPT                      16 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.5% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
 📄 Detailed Prompter — average 884 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +143,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 04:51:17 UTC
+ Last Updated on 26/11/2026 04:02:06 UTC
 <!--END_SECTION:waka-->
 
