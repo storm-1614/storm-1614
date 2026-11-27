@@ -85,49 +85,50 @@ Sunday                   1075 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
-C++                      2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
-Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-IDA                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python                   3 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.88 % 
+Markdown                 2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+IDA                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 44 mins       ██████████████████████░░░   87.15 % 
-IDA Pro                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Neovim                   6 hrs 35 mins       ███████████████████████░░   90.30 % 
+IDA Pro                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-c-cpp_studyProject       3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-Unknown Project          2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
-ctf-repo                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Notes                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-storm                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Unknown Project          2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
+ctf-repo                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+2023-ISCC-Group-stage-mat1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+c-cpp_studyProject       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (7.39%)
+⏱ AI Coding Time: 8 mins (1.84%)
 
-✍️ 6 lines written by AI, 1,107 lines written by hand (0.54% AI-written)
+✍️ 9 lines written by AI, 845 lines written by hand (1.05% AI-written)
 
-🔤 194,081 Input Tokens, 5,510 Output Tokens
+🔤 100,668 Input Tokens, 5,264 Output Tokens
 
-💵 $2.83 Estimated AI Cost This Week
+💵 $3.22 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
-GPT                      16 lines            █████████████████████████   100.00 % 
+GPT                      9 lines             █████████████████████████   100.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
-📄 Detailed Prompter — average 884 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.05% of written lines came from AI
+📄 Detailed Prompter — average 801 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.8% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +144,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 04:02:06 UTC
+ Last Updated on 27/11/2026 04:00:44 UTC
 <!--END_SECTION:waka-->
 
