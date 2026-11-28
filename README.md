@@ -38,9 +38,9 @@ I'm passionate about Cybersecurity and low-level system internals.
 ## ⏱️ Coding Stats
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,50 +85,50 @@ Sunday                   1075 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.88 % 
-Markdown                 2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
-IDA                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Python                   6 hrs 56 mins       ██████████████░░░░░░░░░░░   56.77 % 
+Markdown                 3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+IDA                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 35 mins       ███████████████████████░░   90.30 % 
-IDA Pro                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Neovim                   11 hrs 18 mins      ███████████████████████░░   92.48 % 
+IDA Pro                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
-ctf-repo                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-2023-ISCC-Group-stage-mat1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-c-cpp_studyProject       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+2023-ISCC-Group-stage-mat5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
+Unknown Project          4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+ctf-repo                 1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+c-cpp_studyProject       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+blog                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Linux                    7 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (1.84%)
+⏱ AI Coding Time: 23 mins (3.26%)
 
-✍️ 9 lines written by AI, 845 lines written by hand (1.05% AI-written)
+✍️ 9 lines written by AI, 1,675 lines written by hand (0.53% AI-written)
 
-🔤 100,668 Input Tokens, 5,264 Output Tokens
+🔤 175,061 Input Tokens, 12,608 Output Tokens
 
-💵 $3.22 Estimated AI Cost This Week
+💵 $3.62 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
 GPT                      9 lines             █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.05% of written lines came from AI
-📄 Detailed Prompter — average 801 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.53% of written lines came from AI
+📄 Detailed Prompter — average 867 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.99% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -144,6 +144,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 04:00:44 UTC
+ Last Updated on 28/11/2026 03:48:14 UTC
 <!--END_SECTION:waka-->
 
